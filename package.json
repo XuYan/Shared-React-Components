@@ -1,0 +1,11 @@
+{
+  "name": "react-shared-components",
+  "version": "1.0.0",
+  "description": "A library of shared react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xu Yan",
+  "license": "ISC"
+}
