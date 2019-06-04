@@ -1,0 +1,9 @@
+{
+    "data": {
+        "selector_options": [
+            { "id": 1, "title": "Earth" },
+            { "id": 2, "title": "Sun" },
+            { "id": 3, "title": "Venus" }
+        ]
+    }
+}
