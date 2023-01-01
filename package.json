@@ -26,19 +26,19 @@
     "eslint-plugin-react": "^7.13.0",
     "jest": "^24.8.0",
     "react-test-renderer": "^16.8.6",
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.3.0",
     "babel-polyfill": "^6.26.0",
     "ejs": "^2.6.1",
     "express": "^4.17.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "webpack": "^4.32.2"
+    "webpack": "^5.75.0"
   }
 }
